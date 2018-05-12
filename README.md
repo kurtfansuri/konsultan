@@ -1,2 +1,0 @@
-# konsultan
-GitHub Pages
